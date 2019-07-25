@@ -1,6 +1,7 @@
 /* Dark */
 body,.boxed,.boxed-2 {
-	background-color: #263241;
+	/*background-color: #263241;*/
+	background-color: lightgray;
 }
 #header,.widget,.post-head,.post-wrap,.page-navigation div {
 	-webkit-box-shadow: 0 0 5px 0 #4c5663;
